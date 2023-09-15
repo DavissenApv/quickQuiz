@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+  .questions {
+    display: inline-grid;
+  }
+
+  .message {
+    font-weight: bold; /* Pour rendre le texte en gras */
+  }
+
+  .message.correcte {
+    color: green;
+  }
+
+  .message.incorrecte {
+    color: red;
+  }
