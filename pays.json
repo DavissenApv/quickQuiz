@@ -2,5 +2,5 @@
   { "pays": "la France ?", "reponseCorrecte": "Paris" },
   { "pays": "l'Ile Maurice ?", "reponseCorrecte": "Port Louis" },
   { "pays": "l'Angleterre ?", "reponseCorrecte": "Londres" },
-  { "pays": "l'Espagne ?", "reponseCorrecte": "Madrid" }
+  { "pays": "du Japon ?", "reponseCorrecte": "Tokyo" }
 ]
